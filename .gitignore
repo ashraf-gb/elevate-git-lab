@@ -1,3 +1,6 @@
+ignore-me*
+ignore-me/
+
 # Logs
 logs
 *.log
